@@ -1,0 +1,2 @@
+Prefix plugins/PostResample/example/
+Plugin PostResample inputfile test_set.rds outputfile none
